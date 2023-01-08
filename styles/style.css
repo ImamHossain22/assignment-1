@@ -7,21 +7,21 @@
 
 .background {
     background-image: url('../images/banner/banner3.png');
-    width: 1600px;
-    height: 808px;
+    width: 1500px;
+    height: 800px;
 }
 
 /* Element position */
 
 .position {
     text-align: right;
-    padding: 216px 230px 200px 876px;
+    padding: 216px 230px 200px 870px;
 }
 
 /* this portion for h1 and p */
 .title {
-    font-weight: 700;
-    font-size: 65px;
+    font-weight: 600;
+    font-size: 60px;
     color: #FFFFFF;
 }
 
@@ -222,7 +222,7 @@
 
 input[type=text],
 select {
-    width: 100%;
+    width: 70%;
     font-size: 20px;
     padding: 12px 20px;
     margin: 8px 0;
