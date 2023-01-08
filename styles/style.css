@@ -235,7 +235,7 @@ select {
 
 input[type=submit] {
     width: 50%;
-    background-color: hsl(96, 82%, 52%);
+    background-color:rgb(32, 76, 223);
     color: white;
     font-weight: 400;
     padding: 14px 20px;
