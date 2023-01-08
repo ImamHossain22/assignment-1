@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* header portion */
+
+.background {
+    background-image: url('../images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+}
+
+/* Element position */
+
+.position {
+    text-align: right;
+    padding: 216px 230px 200px 876px;
+}
+
+/* this portion for h1 and p */
+.title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 24px;
+}
+
+/* button customization */
+
+.customization {
+    width: 150px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    margin-top: 32px;
+}
+
+/* main body */
+
+.main-body {
+    display: flex;
+    align-items: center;
+    width: 1072px;
+    height: 723.3px;
+    padding: 140px 264px 120px;
+}
+
+.img {
+    width: 569px;
+    height: 723.3px;
+}
+
+.content {
+    width: 416px;
+    height: 400px;
+    margin-left: 85px;
+}
+
+.content-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.content-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin: 25px 0 18px;
+}
+
+.content-list {
+    width: 349px;
+    height: 162px;
+}
+
+.style {
+    list-style-type: circle;
+}
+
+.list-content {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 8px;
+}
